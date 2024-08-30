@@ -1,12 +1,14 @@
-**👋HELLO!**
+**👋HELLO! I'm Nosipho** 
 
-I am Nosipho Hlongwane, I have a  BA hons in International Relations, I have taken a Bootcamp with SheCodes and have learnt:
+**A Junior Front-End Developer**
+I have completed a coding bootcamp with SheCodes. 
 
-**Web Development:**
+**I am proficient in:**
 - HTML
 - CSS
 - Javascript
 - React
+  
 
 
 
