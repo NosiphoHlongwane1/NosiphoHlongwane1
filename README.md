@@ -22,14 +22,20 @@ Web Development :
 - Python 
   
 **EDUCATION**
+
 Bachelor of Arts with Honours : International Relations 
 Diploma : Journalism
 
 **CERTIFICATES**
 Google Data Analytics : Coursera
+
 Google Business Intelligence : Coursera
+
 SheCodes Bootcamp : Basics  
+
                   : Web Development 
+                  
                   : Responsive Web Development
+                  
                   : React
 
