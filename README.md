@@ -1,10 +1,9 @@
-**ABOUT ME**
-
 **👋HELLO! I'm Nosipho** 
 
-I have taken a leap of faith to get into the tech industry. 
+**ABOUT ME**
+
 I am well versed in Web Development and Data Analytics
-I am both a creative and a critical thinker. 
+I am both a creative and a analytical thinker. 
 I enjoy analysing data, and finding comfort in developing website. 
 
 **I am proficient in:**
