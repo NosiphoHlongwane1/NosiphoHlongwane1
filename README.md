@@ -4,20 +4,18 @@
 
 I am well versed in Web Development and Data Analytics
 I am both a creative and a analytical thinker. 
-I enjoy analysing data, and finding comfort in developing website. 
+I enjoy analysing data, and finding comfort in developing and designing website. 
 
 **I am proficient in:**
 Web Development :
 - HTML
-- CSS (Boothstrap, Tailwind, SASS)
-- Javascript (React, Typescript)
-- Python
+- CSS (Bootstrap, Tailwind, SASS)
+- Javascript (React)
 
   Data and Business Analysis :
-- MySQL
+- SQL (MySQL)
 - Power BI
 - Tableau
-- R Programming
 - Python 
   
 **EDUCATION**
