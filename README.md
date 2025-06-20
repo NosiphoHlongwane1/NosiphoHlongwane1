@@ -1,5 +1,5 @@
 # Hello, I’m Nosipho Hlongwane  
-**Front-End Web Developer | UI/UX Explorer | Creative Problem Solver**
+**Web Developer | Front-End Developer | Creative Problem Solver**
 
 With a background in storytelling and research, I now bring ideas to life on the web. I build responsive, user-friendly websites that are accessible, cleanly coded, and visually engaging. Whether it's a landing page, a portfolio, or a dynamic web app, I craft intuitive experiences that connect users to purpose.
 
