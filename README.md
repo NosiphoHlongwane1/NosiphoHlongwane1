@@ -1,39 +1,41 @@
-**👋HELLO! I'm Nosipho** 
+<img src="https://your-banner-image-url.com/banner.png" alt="Nosipho Hlongwane's Banner" width="100%"/>
 
-**ABOUT ME**
+# 👋 Hi there, I'm Nosipho Hlongwane
 
-I am well versed in Web Development and Data Analytics
-I am both a creative and a analytical thinker. 
-I enjoy analysing data, and finding comfort in developing and designing website. 
+Welcome to my GitHub! I’m a data enthusiast with a background in international relations and journalism, now focused on delivering data-driven insights. I specialize in transforming complex datasets into clear, meaningful visuals and reports.
 
-**I am proficient in:**
-Web Development :
-- HTML
-- CSS (Bootstrap, Tailwind, SASS)
-- Javascript (React)
+You can explore some of my published work here:  
+🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/nosipho.hlongwane/vizzes)
 
-  Data and Business Analysis :
-- SQL (MySQL)
-- Power BI
-- Tableau
-- Python 
-  
-**EDUCATION**
+## 💡 What I Do
 
-Bachelor of Arts with Honours : International Relations 
-Diploma : Journalism
+- Query and analyze data using SQL  
+- Generate reports and perform ad-hoc analysis  
+- Design interactive dashboards in **Tableau** and **Looker Studio**  
+- Analyze and report data using **Google Sheets** and **Excel**
 
-**CERTIFICATES**
+## 🚀 Explore My Projects
 
-Google Data Analytics : Coursera
+I’m actively building a diverse portfolio of data projects that will soon be available right here on GitHub. These will cover areas such as business intelligence dashboards, exploratory data analysis, and real-world data cleaning.
 
-Google Business Intelligence : Coursera
+🌐 Check out my website: [nosiphohlongwane.dev](https://nosiphohlongwane.dev)
 
-SheCodes Bootcamp : Basics  
+---
 
-                  : Web Development 
-                  
-                  : Responsive Web Development
-                  
-                  : React
+## 🛠️ Tools & Technologies
 
+**Languages:**  
+SQL • Python
+
+**Databases:**  
+Google BigQuery • PostgreSQL • MySQL
+
+**Visualization:**  
+Tableau • Looker Studio
+
+---
+
+## 👋🏻 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/nosipho-hlongwane/)  
+[Hire Me on Upwork](https://www.upwork.com/freelancers/~nosiphohlongwane)
