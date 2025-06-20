@@ -38,7 +38,6 @@ Git • GitHub • VS Code • Netlify
 
 ## Connect with Me
 
-- [portfolio](https://app.netlify.com/projects/nh-personalportfolio/)  
 - [Hire Me on Upwork]()  
 - 📫 Email: nh.hlongwane01@gmail.com
 
