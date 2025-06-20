@@ -1,41 +1,72 @@
-<img src="https://github.com/user-attachments/assets/e5680427-5863-4650-bf84-48e00ebfd048)" alt="Nosipho Hlongwane's Banner" width="100%"/>
+<img src="https://![1736010049329](https://github.com/user-attachments/assets/a1e764f9-5098-4e16-b7c4-eeaf5e6b881d)
+/banner.png" alt="Nosipho Hlongwane Banner" width="100%"/>
 
-# 👋 Hi there, I'm Nosipho Hlongwane
+# 👋 Hello, I'm Nosipho Hlongwane  
+**Data Analyst | Web Developer | Problem Solver**
 
-Welcome to my GitHub! I’m a data enthusiast with a background in international relations and journalism, now focused on delivering data-driven insights. I specialize in transforming complex datasets into clear, meaningful visuals and reports.
+I'm a curious and detail-driven professional who blends analytical thinking with creative design. With a background in International Relations and Journalism, I bring strong storytelling skills into both data analytics and front-end development.
 
-You can explore some of my published work here:  
-🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/nosipho.hlongwane/vizzes)
+I specialize in uncovering insights through data, creating interactive dashboards, and building responsive, user-friendly websites. I'm passionate about using data and code to solve real-world problems and tell impactful stories.
+
+---
+
+## 🚀 Portfolio Links
+
+🔍 **Data Analytics Projects**  
+Explore dashboards, case studies, and reports  
+📊 [View on Tableau Public](https://public.tableau.com/app/profile/nosipho.hlongwane/vizzes)  
+📁 [GitHub Data Projects](https://github.com/your-username?tab=repositories&q=data)
+
+💻 **Web Development Projects**  
+Browse websites and interactive front-end projects  
+🌐 [Web Portfolio Site](https://nosiphohlongwane.dev)  
+📁 [GitHub Web Projects](https://github.com/your-username?tab=repositories&q=web)
+
+---
 
 ## 💡 What I Do
 
-- Query and analyze data using SQL  
-- Generate reports and perform ad-hoc analysis  
-- Design interactive dashboards in **Tableau** and **Looker Studio**  
-- Analyze and report data using **Google Sheets** and **Excel**
+### 📊 Data Analytics
+- Querying data using SQL (BigQuery, MySQL, PostgreSQL)  
+- Data cleaning and exploration using Excel and Python (Pandas)  
+- Creating dashboards in Tableau and Looker Studio  
+- Generating reports and visual insights for decision-making  
 
-## 🚀 Explore My Projects
-
-I’m actively building a diverse portfolio of data projects that will soon be available right here on GitHub. These will cover areas such as business intelligence dashboards, exploratory data analysis, and real-world data cleaning.
-
-🌐 Check out my website: [nosiphohlongwane.dev](https://nosiphohlongwane.dev)
+### 💻 Web Development
+- Building responsive websites using HTML, CSS (Bootstrap, Tailwind), JavaScript, and React  
+- Creating engaging user experiences  
+- Integrating APIs and dynamic data visualizations  
+- Hosting websites and managing GitHub repositories  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-**Languages:**  
-SQL • Python
+### 👨‍💻 Languages  
+SQL • Python • JavaScript • HTML5 • CSS3 • Sass
 
-**Databases:**  
-Google BigQuery • PostgreSQL • MySQL
+### 🗃️ Databases  
+Google BigQuery • MySQL • PostgreSQL
 
-**Visualization:**  
-Tableau • Looker Studio
+### 📊 Visualization & Analysis  
+Tableau • Looker Studio • Power BI • Excel • Google Sheets
+
+### ⚙️ Development  
+React • Tailwind CSS • Bootstrap • Git • VS Code
 
 ---
 
-## 👋🏻 Connect with Me
+## 🤝 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/nosipho-hlongwane/)  
-[Hire Me on Upwork](https://www.upwork.com/freelancers/~nosiphohlongwane)
+- [LinkedIn](https://www.linkedin.com/in/nosipho-hlongwane/)
+- [Hire Me on Upwork](https://www.upwork.com/freelancers/~nosiphohlongwane)
+- 📫 Email: your-email@example.com
+
+---
+
+_Thank you for visiting my GitHub! Feel free to explore, fork, or collaborate on any of my projects._
+
+
+
+
+
