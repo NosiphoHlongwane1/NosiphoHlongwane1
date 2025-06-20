@@ -1,5 +1,4 @@
-<img src="![1736010049329](https://github.com/user-attachments/assets/e5680427-5863-4650-bf84-48e00ebfd048)
-" alt="Nosipho Hlongwane's Banner" width="100%"/>
+<img src="https://github.com/user-attachments/assets/e5680427-5863-4650-bf84-48e00ebfd048)" alt="Nosipho Hlongwane's Banner" width="100%"/>
 
 # 👋 Hi there, I'm Nosipho Hlongwane
 
