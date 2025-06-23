@@ -8,7 +8,7 @@ With a background in storytelling and research, I now bring ideas to life on the
 ## 🌐 Explore My Work
 
 💻 **Live Website**  
-[🔗 nosiphohlongwane.netlify](https://github.com/user-attachments/assets/d57b8519-2667-4418-ab51-2446428c6816)
+[🔗 nosiphohlongwane.netlify](https://nh-personalportfolio.netlify.app/)
 
 ---
 
